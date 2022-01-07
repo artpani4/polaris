@@ -1,0 +1,8 @@
+.idea
+.vs
+.vscode
+.keystone
+node_modules
+schema.graphql
+schema.prisma
+keystone.db
