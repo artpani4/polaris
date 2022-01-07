@@ -1,5 +1,6 @@
 .idea
 .vs
+.jpeg
 .vscode
 .keystone
 node_modules
